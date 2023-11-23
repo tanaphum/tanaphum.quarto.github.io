@@ -1,0 +1,15 @@
+---
+title: "Favorites"
+---
+
+## Favorite dog breeds
+
+- Shetland Sheepdog
+- Golden Retriever
+- Labrador
+
+## Favorite characters from the Lord of the Rings movies
+
+- Samwise Gamgee
+- Legolas
+- Aragorn
