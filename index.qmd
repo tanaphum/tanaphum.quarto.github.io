@@ -1,32 +1,30 @@
 ---
-title: "J.T. Smith"
-image: mypic.png
-resources: resume.pdf
+title: "Tanaphum Wichaita"
+subtitle: "Research Software Engineer"
+image: pic_small.jpg
 about:
   template: trestles
   image-shape: round
-  image-width: 15em
+  image-width: 10em
   links:
     - text: Email
       icon: envelope
-      href: mailto:noreply@email.zz
+      href: mailto:tana_jumbo@hotmail.com
     - text: GitHub
       icon: github
-      href: https://github.com/
-    - text: YouTube
-      icon: youtube
-      href: https://youtube.com/
-    - text: resume
-      icon: file-text
-      href: resume.pdf
-  id: ppc
+      href: https://github.com/tanaphum
+    - text: Google Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=nfu41I0AAAAJ&hl=en&oi=ao
+    - text: Linkedin
+      icon: linkedin
+      href: https://www.linkedin.com/in/tanaphum-wichaita-58b941156/
 ---
 
-:::{#ppc}
-I love my dogs. Here is a picture of my dogs.
+This is a Quarto website.
 
-![My dogs are awesome](dawgs.png)
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-If you like dogs too, then you should definitely hire me for
-a highly paid position.
-:::
+```{r}
+1 + 1
+```
