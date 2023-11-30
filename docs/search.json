@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "Tanaphum Wichaita",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "2021 July - Present\nMahidol Oxford Tropical Medicine Research Unit (MORU)\nResearch Software Engineer"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About 22",
+    "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n\n`geom_smooth()` using formula = 'y ~ x'"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Tanaphum Wichaita",
+    "section": "",
+    "text": "2021 July - Present\nMahidol Oxford Tropical Medicine Research Unit (MORU)\nResearch Software Engineer"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tanaphum Wichaita",
+    "section": "Education",
+    "text": "Education\n\n2014 - 2019\nChiang Mai University\nBachelor of Science in Software engineering\n\n\n1 + 1\n\n[1] 2"
   }
 ]

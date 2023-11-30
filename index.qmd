@@ -1,4 +1,7 @@
 ---
+website:
+  search: false
+toc: false
 title: "Tanaphum Wichaita"
 subtitle: "Research Software Engineer"
 image: pic_small.jpg
@@ -10,6 +13,9 @@ about:
     - text: Email
       icon: envelope
       href: mailto:tana_jumbo@hotmail.com
+    - text: Phone
+      icon: phone
+      href: tel:+660903239731
     - text: GitHub
       icon: github
       href: https://github.com/tanaphum
@@ -19,11 +25,22 @@ about:
     - text: Linkedin
       icon: linkedin
       href: https://www.linkedin.com/in/tanaphum-wichaita-58b941156/
+    - text: orcid
+      icon: journals
+      href: https://orcid.org/0000-0002-4001-8999
 ---
 
-This is a Quarto website.
+## **Experience**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   2021 July - Present\
+    Mahidol Oxford Tropical Medicine Research Unit (MORU)\
+    Research Software Engineer
+
+## Education
+
+-   2014 - 2019\
+    Chiang Mai University \
+    Bachelor of Science in Software engineering
 
 ```{r}
 1 + 1

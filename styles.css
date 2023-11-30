@@ -2,3 +2,15 @@
 h1.title {
   text-align: center;
 }
+h2{
+  margin-bottom: 0px;;
+}
+.quarto-container{
+  background-color: #dadde9;
+}
+.navbar-dark {
+    background-color: #f1f2fa;
+}
+.about-image{
+  margin-top: 1vh;
+}

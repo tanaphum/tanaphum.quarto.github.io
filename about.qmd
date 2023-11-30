@@ -1,9 +1,23 @@
 ---
-title: "About 22"
+title: "About"
+execute:
+  echo: false
 ---
 
 About this site
 
 ```{r}
-1 + 1
+options(warn=-1)
+#| label: fig-airquality
+#| fig-cap: "Temperature and ozone level."
+#| warning: false
+
+library(ggplot2)
+
+ggplot(airquality, aes(Temp, Ozone)) + 
+  geom_point() + 
+  geom_smooth(method = "loess")
+
+
+
 ```
