@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "R Code",
     "section": "",
-    "text": "About this site\n\n\n`geom_smooth()` using formula = 'y ~ x'"
+    "text": "About this site\n\noptions(warn=-1)\n#| label: fig-airquality\n#| fig-cap: \"Temperature and ozone level.\"\n#| warning: false\n\nlibrary(ggplot2)\n\nggplot(airquality, aes(Temp, Ozone)) + \n  geom_point() + \n  geom_smooth(method = \"loess\")\n\n`geom_smooth()` using formula = 'y ~ x'\n\n\n\n\n\n\n2 + 2\n\n\n\n[1] \"n\""
   },
   {
     "objectID": "index.html#experience",
@@ -25,6 +25,13 @@
     "href": "index.html#education",
     "title": "Tanaphum Wichaita",
     "section": "Education",
-    "text": "Education\n\n2014 - 2019\nChiang Mai University\nBachelor of Science in Software engineering\n\n\n1 + 1\n\n[1] 2"
+    "text": "Education\n\n2014 - 2019\nChiang Mai University\nBachelor of Science in Software engineering"
+  },
+  {
+    "objectID": "index.html#work",
+    "href": "index.html#work",
+    "title": "Tanaphum Wichaita",
+    "section": "Work",
+    "text": "Work\n\nModelling optimal strategies to screen and treat chronic Hepatitis C Virus infections (Web) / Code Developer\nApplying taxonomic boundaries for species identification (ABIapp): A convenient and accurate application for species delimitation of parasitic helminths (Web) / Code Developer\nHow to model the impact of vaccines for policymaking when the characteristics are uncertain: A case study in Thailand prior to the vaccine rollout during the COVID-19 pandemic (DOI) / Code Developer\nHelp on PLATCOV project / Code Developer\nHelp Sepsis screening project / Code Developer"
   }
 ]

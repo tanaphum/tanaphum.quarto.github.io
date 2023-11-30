@@ -1,7 +1,5 @@
 ---
-title: "About"
-execute:
-  echo: false
+title: "R Code"
 ---
 
 About this site
@@ -20,4 +18,12 @@ ggplot(airquality, aes(Temp, Ozone)) +
 
 
 
+```
+
+```{r,results='hide'}
+2 + 2
+```
+
+```{r,echo=FALSE}
+print("n")
 ```

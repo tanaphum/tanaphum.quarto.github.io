@@ -1,6 +1,4 @@
 ---
-website:
-  search: false
 toc: false
 title: "Tanaphum Wichaita"
 subtitle: "Research Software Engineer"
@@ -42,6 +40,14 @@ about:
     Chiang Mai University \
     Bachelor of Science in Software engineering
 
-```{r}
-1 + 1
-```
+## Work
+
+-   Modelling optimal strategies to screen and treat chronic Hepatitis C Virus infections ([Web](https://moru.shinyapps.io/webHepC/)) / Code Developer
+
+-   Applying taxonomic boundaries for species identification (ABIapp): A convenient and accurate application for species delimitation of parasitic helminths ([Web](https://moru.shinyapps.io/ABIapp/)) / Code Developer
+
+-   How to model the impact of vaccines for policymaking when the characteristics are uncertain: A case study in Thailand prior to the vaccine rollout during the COVID-19 pandemic ([DOI](https://doi.org/10.1016/j.vaccine.2023.06.055)) / Code Developer
+
+-   Help on PLATCOV project / Code Developer
+
+-   Help Sepsis screening project / Code Developer
